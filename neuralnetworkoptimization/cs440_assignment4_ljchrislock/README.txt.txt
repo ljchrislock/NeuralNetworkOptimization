@@ -1,0 +1,3 @@
+I have added a folder full of graphs that I had made to help me visualize the effects of the different equations as well as the parameters I have changed each time. There is a graph for each of the activation functions, and then from there, I kept making graphs using the bipolar function. The numbers on the graphs represent the order of changes that I made that relate to the report. The references in my report refer to the graphs you can see in this folder. Unfortunately I sometimes struggle if I dont have a visual so I used these to help understand the change in numbers from fixing and changing parameters within my specific program. 
+
+NOTE- AS OF THE DAY THAT I WRITE THIS, 11/29/2024, my output successfully opens in Microsoft Excel and displays with no problems. 
